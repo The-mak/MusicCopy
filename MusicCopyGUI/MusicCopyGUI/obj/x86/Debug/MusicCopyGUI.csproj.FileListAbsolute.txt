@@ -1,0 +1,13 @@
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\bin\Debug\MusicCopyGUI.exe
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\bin\Debug\MusicCopyGUI.pdb
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\MainWindow.baml
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\App.g.cs
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\MusicCopyGUI_MarkupCompile.cache
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\MusicCopyGUI.g.resources
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\MusicCopyGUI.Properties.Resources.resources
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\MusicCopyGUI.exe
+C:\Users\will\Desktop\Projetos\MusicCopyGUI\MusicCopyGUI\obj\x86\Debug\MusicCopyGUI.pdb
